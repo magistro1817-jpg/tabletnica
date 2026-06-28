@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.magistro1817_jpg.twa",
-        "sha256_cert_fingerprints": ["C5:15:9A:01:7B:8B:AB:E3:FC:CD:C1:2D:70:44:DA:E6:7E:26:50:93:1B:93:BC:A6:4E:7B:CE:B0:D1:07:A4:1C"]
+        "sha256_cert_fingerprints": ["83:CD:41:3E:EC:3C:EA:C9:68:2E:22:AD:17:A9:61:9E:14:66:69:AD:51:A0:2B:42:86:4C:BF:F5:16:E9:00:D4"]
       }
     }]
